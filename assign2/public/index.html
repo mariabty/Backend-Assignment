@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>User Registration</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>User Registration</h1>
+    <form id="registerForm">
+      <label>Username</label>
+      <input type="text" name="username" required />
+
+      <label>Email</label>
+      <input type="email" name="email" required />
+
+      <label>Password</label>
+      <input type="password" name="password" required />
+
+      <button type="submit">Register</button>
+    </form>
+
+    <p id="message"></p>
+  </div>
+  <iframe src="/success" width="90%" height="300px" style="border:none;"></iframe>
+  <script src="script.js"></script>
+</body>
+</html>
