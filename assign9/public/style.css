@@ -1,0 +1,28 @@
+body {
+  font-family: Poppins, sans-serif;
+  text-align: center;
+  background: #f9f9f9;
+}
+
+h2 {
+  margin-top: 30px;
+}
+
+.user-card {
+  background: #fff;
+  border: 1px solid #ddd;
+  width: 250px;
+  margin: 10px auto;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#pagination-controls {
+  margin-top: 20px;
+}
+
+button {
+  padding: 5px 15px;
+  margin: 5px;
+  cursor: pointer;
+}
