@@ -1,6 +1,6 @@
-<# Backend Assignment Part B (Node.js)
+# Part 2: Backend Development (PHP or Node.js with MySQL) - 10 Experiments 
 
-Part 2: Backend Development (PHP or Node.js with MySQL) - 10 Experiments [Option B: Node.js & MySQL Experiments]
+# Option B: Node.js & MySQL Experiments
 
 Objective: To understand server-side programming, database interaction, and building dynamic web applications. Students choose either PHP or Node.js for their backend.
 
